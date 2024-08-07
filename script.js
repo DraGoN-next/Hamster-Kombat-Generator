@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     telegramChannelBtn.addEventListener('click', () => {
-        window.open('', '_blank');
+        window.open('https://t.me/LazerProFedorovbot', '_blank');
     });
 
     const generateClientId = () => {
