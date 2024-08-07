@@ -2,10 +2,10 @@
 
 ## How To Generate Keys (Easy)
 ### Method 1
-Generate using our [Telegram Bot Link](http://telegram.me/Hamster_Kombat_Keys_Gen_Bot)
+Generate using our [Telegram Bot Link]()
 
 ### Method 2
-Generate Using Our [Website](https://sam-richard-007.github.io/Hamster-Kombat-Key-Generator)
+Generate Using Our [Website]([https://sam-richard-007.github.io/Hamster-Kombat-Key-Generator](https://dragon-next.github.io/key/))
 
 ## Description
 
@@ -18,7 +18,7 @@ The Hamster Kombat Key Generator provides a simple way to obtain promo codes for
 - Added support for three new games: Chain Cube 2048, My Clone Army, and Train Miner.
 - Improved responsive design.
 - Enhanced progress tracking with logs.
-- You can reach out to me via my [Telegram](https://telegram.me/Sam_Dm_bot).
+- You can reach out to me via my [Telegram]().
 
 ## Features
 
@@ -31,7 +31,7 @@ The Hamster Kombat Key Generator provides a simple way to obtain promo codes for
 ## Usage
 
 1. **Select a Game**: Choose a game from the dropdown list.
-2. **Select Number of Keys**: Choose the number of keys to generate (1 or 5).
+2. **Select Number of Keys**: Choose the number of keys to generate (4,12).
 3. **Generate Keys**: Click the "Generate Keys" button to start the process.
 4. **Copy Keys**: Use the "Copy All Keys" button or individual copy buttons to copy the generated keys.
 
