@@ -5,7 +5,7 @@
 Generate using our [Telegram Bot Link]()
 
 ### Method 2
-Generate Using Our [Website]([https://sam-richard-007.github.io/Hamster-Kombat-Key-Generator](https://dragon-next.github.io/key/))
+Generate Using Our [Website] https://sam-richard-007.github.io/Hamster-Kombat-Key-Generator](https://dragon-next.github.io/key/))
 
 ## Description
 
