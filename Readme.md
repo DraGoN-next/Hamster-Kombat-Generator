@@ -62,7 +62,7 @@ The Hamster Kombat Key Generator provides a simple way to obtain promo codes for
 
 ## Contact
 
-For any questions or support, you can reach out to me via my [Telegram](https://telegram.me/Sam_Dm_bot).
+For any questions or support, you can reach out to me via my [Telegram]().
 
 ## Star the Repository
 
@@ -70,11 +70,10 @@ If you found this project useful, please consider giving it a star on GitHub!
 
 ## Website
 
-Visit the website at [Hamster Kombat KEY Generator](https://sam-richard-007.github.io/Hamster-Kombat-Key-Generator/)
-
+Visit the website at [Hamster Kombat KEY Generator]([https://dragon-next.github.io/key/]))
 ## Credits
 
-This tool is developed by **Sam Richard**.
+This tool is developed by **Dr@GoN**.
 
 ## Disclaimer
 
