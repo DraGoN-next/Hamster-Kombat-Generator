@@ -295,7 +295,7 @@ document.addEventListener('DOMContentLoaded', () => {
         window.open('https://t.me/generatorHKProbot', '_blank');
     });
 
-    document.getElementById('ShowKeysBtn').addEventListener('click', () => {
+    document.getElementById('generateMoreBtn').addEventListener('click', () => {
         const generatedCodesContainer = document.getElementById('generatedCodesContainer');
         const generatedCodesList = document.getElementById('generatedCodesList');
         generatedCodesList.innerHTML = ''; // Clear the list
