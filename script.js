@@ -288,11 +288,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-        window.open('https://telegram.me/Sam_Dm_bo', '_blank');
+        window.open('https://dragon-next.github.io/Hamster-Kombat-Generator/', '_blank');
     });
 
     telegramChannelBtn.addEventListener('click', () => {
-        window.open('https://telegram.me/Insta_Buy_Followe', '_blank');
+        window.open('https://t.me/generatorHKProbot', '_blank');
     });
 
     document.getElementById('ShowKeysBtn').addEventListener('click', () => {
