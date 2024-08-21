@@ -46,6 +46,14 @@ document.addEventListener('DOMContentLoaded', () => {
             eventsDelay: 20000,
         attemptsNumber: 10,
             
+        },
+        6: {
+    name: 'Polysphere',
+    appToken: '',
+    promoId: '',
+            eventsDelay: 20000,
+        attemptsNumber: 10,
+            
         }
     };
 
